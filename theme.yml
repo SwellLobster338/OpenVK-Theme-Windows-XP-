@@ -1,0 +1,11 @@
+id: winxptheme
+version: "0.0.1.0"
+openvk_version: 0
+enabled: 1
+metadata:
+    name:
+        _: "Windows XP theme for OpenVK [by SwellLobster338]"
+        en: "Windows XP theme for OpenVK [by SwellLobster338]"
+        ru: "Тема Windows XP для OpenVK [by SwellLobster338]"
+    author: "SwellLobster338"
+    description: "Тема в стиле Windows XP"
