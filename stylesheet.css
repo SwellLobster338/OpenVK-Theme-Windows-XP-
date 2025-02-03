@@ -50,7 +50,7 @@ a:hover {
     height: 45px;
     background-repeat: no-repeat;
     background-position: 0;
-    background: url(https://cdn.discordapp.com/attachments/593774368082100226/931650371321995364/1.png) no-repeat;
+    background: url(https://cdn.lobstercraft.ru/other/theme/1.png) no-repeat;
     /* https://i.imgur.com/NUWhKyn.png */
 }
 
@@ -73,7 +73,7 @@ color:
 
 
 .home_button:active {
-    background-image: url(https://cdn.discordapp.com/attachments/593774368082100226/931650519078953020/2.png);
+    background-image: url(https://cdn.lobstercraft.ru/other/theme/2.png);
     background-position-y: 6px;
     background-position-x: 20px;
     width: 220px;
@@ -222,7 +222,7 @@ color:
 .page_yellowheader {
     padding: 8px 10px 0px;
     font-weight: bold;
-    background: url(https://cdn.discordapp.com/attachments/593774368082100226/931650601606082600/3.png) repeat-x;
+    background: url(https://cdn.lobstercraft.ru/other/theme/3.png) repeat-x;
     /* background-color: #f6f6f6; */
     border-right: solid 1px #f6f6f6;
     border-left: solid 1px #f6f6f6;
@@ -566,7 +566,7 @@ input[type~="search"] {
 }
 input[type~="search"][name~="query"] {
     width: 217px /* qualified */ !important;
-    background: url(https://cdn.discordapp.com/attachments/593774368082100226/931650687857729576/4.gif) no-repeat 3px 4px /* qualified */ !important;
+    background: url(https://cdn.lobstercraft.ru/other/theme/4.gif) no-repeat 3px 4px /* qualified */ !important;
     background-color: #fff /* qualified */ !important;
     padding-left: 22px /* qualified */ !important;
     background-position-y: 5px /* qualified */ !important;
@@ -1231,7 +1231,7 @@ input[type=checkbox] {
   vertical-align: middle;
 } */
 input[type=checkbox]:checked {
-  background-image: url("https://cdn.discordapp.com/attachments/593774368082100226/931650751351119872/5.png");
+  background-image: url("https://cdn.lobstercraft.ru/other/theme/5.png");
   background-color: transparent;
   -webkit-appearance: none;
   -moz-appearance: none;
@@ -1243,7 +1243,7 @@ input[type=checkbox]:checked {
   vertical-align: middle;
 }
 input[type=checkbox]:hover {
-  background-image: url("https://cdn.discordapp.com/attachments/593774368082100226/931650751531454494/6.png");
+  background-image: url("https://cdn.lobstercraft.ru/other/theme/6.png");
   -webkit-appearance: none;
   -moz-appearance: none;
   -ms-appearance: none;
@@ -1254,7 +1254,7 @@ input[type=checkbox]:hover {
   vertical-align: middle;
 }
 input[type=checkbox]:checked:hover {
-  background-image: url("https://cdn.discordapp.com/attachments/593774368082100226/931650751137214524/7.png");
+  background-image: url("https://cdn.lobstercraft.ru/other/theme/7.png");
   background-color: transparent;
   -webkit-appearance: none;
   -moz-appearance: none;
@@ -1266,7 +1266,7 @@ input[type=checkbox]:checked:hover {
   vertical-align: middle;
 }
 input[type=checkbox] {
-  background-image: url("https://cdn.discordapp.com/attachments/593774368082100226/931650767998320660/8.png");
+  background-image: url("https://cdn.lobstercraft.ru/other/theme/8.png");
   background-color: transparent;
   -webkit-appearance: none;
   -moz-appearance: none;
